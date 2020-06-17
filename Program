@@ -1,0 +1,27 @@
+1.list program
+
+vocuabulary = ["apple", "cheese", "vechicle", "mango"]
+numbers = [17,123,92]
+an_empty_list= []
+print(vocuabulary,numbers,an_empty_list)
+ 
+ 
+ 
+2.Tuple program
+my_tuple=3, 4.6, 9.04
+ptint(my_tuple)
+
+a, b, c = my_tuple
+
+print(a)
+print(b)
+print(c)
+
+Dictionary program 
+dict = { 'key1' : 'vasu' , 'key2' : 'dev'}
+print ("current Dict is : ", dict)
+
+dict['key2' ]= 'devan'
+dict['key3' ]= 'vasu'
+
+print("updated Dict is: ", dict)
